@@ -15,5 +15,6 @@ git rebase -i 压缩历史
 git remote add 标签名 github上的仓库路径 添加远程仓库
 git clone 仓库路径 获取远程仓库，标识符自动设置为origin
 git push -u 远程仓库标签名 分支名 推送分支至远程仓库
+git pull 远程仓库标签名 分支名 获取远程仓库分支最新状态
 Git is a Version control system.
 Git is free software.
